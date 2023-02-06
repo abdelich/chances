@@ -1,0 +1,8 @@
+D:\Work\chances\Chances\bin\Release\Chances.exe.config
+D:\Work\chances\Chances\bin\Release\Chances.exe
+D:\Work\chances\Chances\bin\Release\Chances.pdb
+D:\Work\chances\Chances\obj\Release\Chances.csproj.AssemblyReference.cache
+D:\Work\chances\Chances\obj\Release\Chances.csproj.SuggestedBindingRedirects.cache
+D:\Work\chances\Chances\obj\Release\Chances.csproj.CoreCompileInputs.cache
+D:\Work\chances\Chances\obj\Release\Chances.exe
+D:\Work\chances\Chances\obj\Release\Chances.pdb
